@@ -1,0 +1,36 @@
+.nature-gallery .nature-gallery-title {
+    text-align: center;
+    padding-bottom: 20px;
+    border: 5px solid;
+}
+
+#icons .btn {
+    display: block;
+    margin: auto;
+}
+
+.card .card-img-top {
+    border: 2px solid #3af23a;
+    border-radius: 4px;
+}
+
+.card .card-img-mid {
+    border: 2px solid #e94ecc;
+    border-radius: 4px;
+}
+.card .card-img-bottom {
+    border: 2px solid #f2873a;
+    border-radius: 4px;
+}
+
+.card .card-body .card-title {
+    margin-bottom: 30px;
+}
+
+
+.card .card-body .card-text {
+    display: none;
+}
+.card:hover .card-body .card-text {
+    display: block;
+}
